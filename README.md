@@ -4,7 +4,7 @@
 
 ---
 ##   👌Sobre
-Resolução de problemas de lógica da programação pedido pelo desafio.
+Resolução de problemas de lógica da programação pedido pelo desafio, foi usado para isso a linguagem de programação Javascript.
 
 ###  ✔Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
